@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://res.cloudinary.com/adelcloud/image/upload/v1592222553/black-emerite-logo_wmexbt.png',
+    logo: 'https://res.cloudinary.com/adelcloud/image/upload/v1592223702/white-emerite-logo_ikqttw.png',
     logoLink: 'https://emerite.co',
     title:
       "JS Course",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+    githubUrl: 'https://github.com/adelmuursepp/coursewebsite',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -27,7 +27,7 @@ const config = {
 		      </div>
 		    </a>
 		  </li>`,
-    links: [{ text: 'bla', link: 'google.com' }],
+    links: [{ text: '', link: '' }],
     search: {
       enabled: false,
       indexName: '',
@@ -40,7 +40,7 @@ const config = {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
       '/codeblock',
-      '/anotherpage'
+      '/setup'
     ],
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
@@ -55,8 +55,8 @@ const config = {
     title: 'Gatsby Javascript Course',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    docsLocation: 'https://github.com/adelmuursepp/coursewebsite/tree/master/content',
+    favicon: 'https://res.cloudinary.com/adelcloud/image/upload/v1592224040/white-emerite-logo-circle_b8o7u4.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
@@ -64,8 +64,8 @@ const config = {
       name: 'Gatsby Gitbook Starter',
       short_name: 'GitbookStarter',
       start_url: '/',
-      background_color: '#a8dadc',
-      theme_color: '#a8dadc',
+      background_color: '#D1AC00',
+      theme_color: '#D1AC00',
       display: 'standalone',
       crossOrigin: 'use-credentials',
       icons: [

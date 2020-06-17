@@ -3,6 +3,7 @@ import { injectGlobal } from 'emotion';
 export const baseStyles = injectGlobal`
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
   * {
     margin: 0;
     padding: 0;
@@ -34,11 +35,11 @@ export const baseStyles = injectGlobal`
 
   a {
     transition: color 0.15s;
-    /* color: #663399; */
+    /* color: #D1AC00; */
   }
 
   body {
-    font-family: 'Roboto';
+    font-family: 'Open Sans';
   }
   .visibleMobile {
     display: none;
@@ -134,7 +135,7 @@ export const baseStyles = injectGlobal`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #001933;
+    background-color: #004643;
   }
 
   .headerWrapper {
@@ -257,7 +258,7 @@ export const baseStyles = injectGlobal`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-color: #001934;
+    background-color: #004643;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -287,7 +288,8 @@ export const baseStyles = injectGlobal`
 
   .navBarBrand img {
     width: 120px;
-    margin-right: 6px;
+    margin-right: 30px;
+    margin-left: 20px;
     display: inline-block;
   }
   .navBarUL li {
@@ -297,7 +299,7 @@ export const baseStyles = injectGlobal`
     -webkit-overflow-scrolling: touch;
   }
   .navBarUL li a {
-    font-family: 'Roboto';
+    font-family: 'Open Sans';
     color: #fff !important;
     font-size: 16px;
     font-weight: 500;
@@ -322,11 +324,11 @@ export const baseStyles = injectGlobal`
   }
   
   blockquote {
-    color: rgb(116, 129, 141);
+    color: #F6BE9A;
     margin: 0px 0px 24px;
     padding: 0px 0px 0px 12px;
-    border-left: 4px solid rgb(230, 236, 241);
-    border-color: rgb(230, 236, 241);
+    border-left: 4px solid #F6BE9A;
+    border-color: #F6BE9A;
   }
   .socialWrapper {
     display: flex;
@@ -390,7 +392,7 @@ export const baseStyles = injectGlobal`
   .greenCircle {
     width: 8px;
     height: 8px;
-    background-color: #1cd3c6;
+    background-color: #D1AC00;
     border-radius: 50%;
     margin: 0 12px;
   }
@@ -398,14 +400,14 @@ export const baseStyles = injectGlobal`
   .headerNav {
     font-family: 'Roboto';
     padding: 0px 24px;
-    color: #001933;
+    color: #004643;
     font-size: 16px;
     font-weight: 500;
     line-height: 1em;
   }
 
   .headerNav a {
-    color: #001933;
+    color: #004643;
     text-decoration: none;
   }
 
@@ -450,14 +452,14 @@ export const baseStyles = injectGlobal`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #F6BE9A;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
     fill: #fff !important;
   }
   .active .collapser > svg > path {
-    fill: #001933 !important;
+    fill: #004643 !important;
   }
 
   .firstLevel ul .item ul .item {
@@ -470,7 +472,7 @@ export const baseStyles = injectGlobal`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #F6BE9A;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -481,12 +483,12 @@ export const baseStyles = injectGlobal`
   }
 
   .showFrontLine .item > a:hover {
-    background-color: #001933;
+    background-color: #004643;
   }
 
   .showFrontLine .active > a {
     /* color: #fff; */
-    background-color: #001933;
+    background-color: #004643;
   }
 
   .sideBarUL .item .item {
@@ -499,16 +501,16 @@ export const baseStyles = injectGlobal`
 
   .showFrontLine .item .item {
     border-left: 1px solid #e6ecf1;
-    border-left-color: rgb(230, 236, 241);
+    border-left-color: #F6BE9A;
     padding: 0;
     width: calc(100% - 16px) !important;
   }
 
   .showFrontLine .item .active > a {
-    border-color: rgb(230, 236, 241) !important;
+    border-color: #F6BE9A !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #F6BE9A !important;
     color: #fff;
   }
 
@@ -516,7 +518,7 @@ export const baseStyles = injectGlobal`
     display: flex;
     align-items: center;
     padding-bottom: 40px;
-    border-bottom: 1px solid rgb(230, 236, 241);
+    border-bottom: 1px solid #F6BE9A;
     margin-bottom: 32px;
   }
 

@@ -1,15 +1,15 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: "Development environment setup"
+metaTitle: "Setup for Gatsby development"
+metaDescription: "Setup for Gatsby developmen"
 ---
 
-This is the the course for Gatsby web development
+This 
 
-# Who is it for?
+# Heading H1
 Heading 1 text
 
-# Materials
+## Heading H2
 Heading 2 text
 
 ### Heading H3
