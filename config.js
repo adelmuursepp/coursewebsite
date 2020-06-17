@@ -7,7 +7,7 @@ const config = {
   },
   header: {
     logo: 'https://res.cloudinary.com/adelcloud/image/upload/v1592223702/white-emerite-logo_ikqttw.png',
-    logoLink: 'https://emerite.co',
+    logoLink: 'https://js-gatsby-course.netlify.app/',
     title:
       "Javascript kursus",
     githubUrl: 'https://github.com/adelmuursepp/coursewebsite',
@@ -47,7 +47,7 @@ const config = {
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>Gatsby</a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>Javascript kursus</a>",
+      "Gatsby<div class='greenCircle'></div>Javascript kursus",
   },
   siteMetadata: {
     title: 'Gatsby Javascript kursus',
