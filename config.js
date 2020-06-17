@@ -9,7 +9,7 @@ const config = {
     logo: 'https://res.cloudinary.com/adelcloud/image/upload/v1592223702/white-emerite-logo_ikqttw.png',
     logoLink: 'https://emerite.co',
     title:
-      "JS Course",
+      "Javascript kursus",
     githubUrl: 'https://github.com/adelmuursepp/coursewebsite',
     helpUrl: '',
     tweetText: '',
@@ -38,22 +38,20 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
       '/setup'
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+ // add trailing slash if enabled above
     ],
     links: [{ text: 'Emerite coding', link: 'https://emerite.co' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://hasura.io/learn/'>Gatsby</a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>JS Course</a>",
+      "<a href='https://hasura.io/learn/'>Gatsby</a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>Javascript kursus</a>",
   },
   siteMetadata: {
-    title: 'Gatsby Javascript Course',
-    description: 'Documentation built with mdx. Powering hasura.io/learn ',
+    title: 'Gatsby Javascript kursus',
+    description: 'Gatsby Javascript kursus',
     ogImage: null,
     docsLocation: 'https://github.com/adelmuursepp/coursewebsite/tree/master/content',
     favicon: 'https://res.cloudinary.com/adelcloud/image/upload/v1592224040/white-emerite-logo-circle_b8o7u4.png',

@@ -1,21 +1,20 @@
 ---
-title: "1. Setup"
-metaTitle: "Setup for Gatsby development"
-metaDescription: "Setup for Gatsby development, npm, terminal"
+title: "1. Töökeskkonna ette valmistamine"
+metaTitle: "Veebiarendus Gatsby jaoks"
+metaDescription: "Vajalik installeerimine Gatsby raamistiku abil veebiarenduse tegemiseks"
 ---
 
-Before everything, we need to install the tools we will need to work on our Gatsby project.
+Enne kõike tuleb installeerida vajalikud programmid Gatsby arenduseks.
 
-# Introduction to Web Development
-What is web development and why it is important: [Slides]()
 
-# What are we doing?
-Each kind of web development project requires its own specific installations and environment.
-It will seem confusing and overwhelming, but don't worry. Installing everything will help us do the development very easily and fast.
+# Miks tuleb installeerida erinevaid programme?
+Veebiarenduse teeb lihtsaks töökeskkond vajalike installeerimistega. Muidugi on võimalik luua projekt väga lihtsalt väga lihtsa töökeskkonnaga, aga see tähendab, et projektide tegemine on keeruline ja ajakulukas.
+Kindlasti ei pea sa aru saama, mis kõik installeerimise juhendis toimub, kõige olulisem on õigesti juhendit järgida, et installeerimine oleks õigesti tehtud.
 
-# Installations
-We are going to install everything as specified on Gatsby website: [Installation Guide](https://www.gatsbyjs.org/tutorial/part-zero/)
 
-# Creating Gatsby website
-Follow the guide and create the Hello World website yourself. Change the title on your page to different text. Try changing the colors and size in Google Chrome.
+# Installeerimine
+Installida tuleb kõik Gatsby veebilehel oleva juhendi järgi (palun pane tähele, milline arvuti sul on - Windows või Mac): [Installeerimise juhend](https://www.gatsbyjs.org/tutorial/part-zero/)
+
+# Esimene projekt
+Esimesena proovi teha juhendi lõpus kirjeldatud Hello World projekt. Kui see on tehtud, proovi Google Chrome's muuta teksti sisu, suurust ja värvi.
 

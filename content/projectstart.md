@@ -1,10 +1,10 @@
 ---
-title: "2. Starting the project"
-metaTitle: "Starting the web store on Gatsby"
-metaDescription: "How to start ecommerce on Gatsby, Javascript"
+title: "2. Projekti alustamine"
+metaTitle: "Kuidas teha veebileht Gatsbyga"
+metaDescription: "Portfoolio või äri veebileht Gatsbyga"
 ---
 
-We are going to start working on our project, creating the website for a business or just a portfolio.
+Kui töökeskkond on ette valmistatud ja oled kindlaks teinud, et saad oma arvutil panna püsti lihtsa veebilehe, võid alustada järgmise loomingulise projektiga. Praegu teeme lihtsa portfoolio sinu töö näitamiseks või veebilehe väikese ettevõtte jaoks.
 
-# Introduction
-Websites are built using HTML, CSS and Javascript.
+# Mis on portfoolio?
+Tihti on loomingulistel inimestel, nt fotograafid, arhitektid ja disainerid, oma parimate tööde näitamiseks veebileht. Veebiarendajad teevad enda oskuste näitamiseks samamoodi. Portfoolio on enda eelmiste tööde näitamiseks tööandjatele ja lisatakse nt CV-le.
