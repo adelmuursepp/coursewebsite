@@ -1,10 +1,10 @@
 ---
-title: "1. Töökeskkonna ette valmistamine"
+title: "Töökeskkonna ette valmistamine"
 metaTitle: "Veebiarendus Gatsby jaoks"
 metaDescription: "Vajalik installeerimine Gatsby raamistiku abil veebiarenduse tegemiseks"
 ---
 
-Enne kõike tuleb installeerida vajalikud programmid Gatsby arenduseks.
+Enne kõike tuleb installeerida vajalikud programmid Gatsby arenduseks. Palun pane tähele, et kui sa pole kindel, mis tuleb installeerida, oota esimese tunnini. Ainult jätka, kui oled täiesti aru saanud installeerimise juhendist.
 
 
 # Miks tuleb installeerida erinevaid programme?
