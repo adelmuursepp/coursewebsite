@@ -14,6 +14,7 @@ Kindlasti ei pea sa aru saama, mis kõik installeerimise juhendis toimub, kõige
 
 # Installeerimine
 Installida tuleb kõik Gatsby veebilehel oleva juhendi järgi (palun pane tähele, milline arvuti sul on - Windows või Mac): [Installeerimise juhend](https://www.gatsbyjs.org/tutorial/part-zero/)
+Samuti laeme alla Visual Studio Code rakenduse.
 
 # Esimene projekt
 Esimesena proovi teha juhendi lõpus kirjeldatud Hello World projekt. Kui see on tehtud, proovi Google Chrome's muuta teksti sisu, suurust ja värvi.
