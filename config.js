@@ -13,20 +13,7 @@ const config = {
     githubUrl: 'https://github.com/adelmuursepp/coursewebsite',
     helpUrl: '',
     tweetText: '',
-    social: `<li>
-		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Discord'}/>
-		      </div>
-		    </a>
-		  </li>
-			<li>
-		    <a href="https://discordapp.com/invite/hasura" target="_blank" rel="noopener">
-		      <div class="discordBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
-		      </div>
-		    </a>
-		  </li>`,
+    social: '',
     links: [{ text: '', link: '' }],
     search: {
       enabled: false,
@@ -38,7 +25,13 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/setup'
+      '/setup',
+      '/tund1',
+      '/tund2',
+      '/tund3',
+      '/tund4',
+      '/tund5',
+      '/tund6'
     ],
     collapsedNav: [
  // add trailing slash if enabled above
@@ -59,8 +52,8 @@ const config = {
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'Gatsby Gitbook Starter',
-      short_name: 'GitbookStarter',
+      name: 'Gatsby Javascript kursus',
+      short_name: 'Javascript kursus',
       start_url: '/',
       background_color: '#D1AC00',
       theme_color: '#D1AC00',

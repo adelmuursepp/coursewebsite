@@ -14,3 +14,16 @@ Kui sa ei näe korralikult slaidiesitlust: [Slaidiesitluse link](https://slides1
 HTML ja CSS kõige lihtsam näide: [Codepeni link 1](https://codepen.io/adelmuursepp/pen/PoZaWjV?editors=1100)
 
 Läbi proovimise link, HTML ja Javascript: [Codepeni link 2](https://codepen.io/adelmuursepp/pen/jOWKymO)
+
+# Lisamaterjal
+
+Codecademy on veebileht, kus on võimalik väga hästi selgeks saada eri keelte põhiteadmised. Alustades tasuta prooviperioodi (30 päeva), saad läbida vastavalt oma panusele tasuta kaks või kolm kursust (või rohkem!).
+
+
+Kui soovid ja sul on aega sügavamalt aru saada:
+
+HTML põhiteadmised: [Codecademy HTML algkursus](https://www.codecademy.com/learn/learn-html)
+
+CSS põhiteadmised: [Codecademy CSS algkursus](https://www.codecademy.com/learn/learn-css)
+
+Javascript põhiteadmised: [Codecademy Javascript kursus](https://www.codecademy.com/learn/introduction-to-javascript)
